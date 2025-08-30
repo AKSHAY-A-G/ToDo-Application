@@ -1,7 +1,4 @@
-"# ToDo-Application" 
-
-
-ToDo Application (Flask)
+# 📝 ToDo Application (Flask)
 
 A simple task management application built using **Flask** that allows users to manage their daily tasks efficiently. Users can add, edit, delete, and view tasks with due dates.
 
@@ -24,7 +21,13 @@ A simple task management application built using **Flask** that allows users to 
 ---
 
 ## 📸 Screenshots
-(Add screenshots of your UI here once you run the project and take snapshots)
+
+![WhatsApp Image 2025-08-30 at 20 23 15_2b0e2a0c](https://github.com/user-attachments/assets/fdd68751-a344-4314-97e5-8d40c71cb66e)
+
+![WhatsApp Image 2025-08-30 at 20 23 13_8c8a40f5](https://github.com/user-attachments/assets/6c36504a-133a-4e32-a467-efb7f7a88209)
+
+![WhatsApp Image 2025-08-30 at 20 23 14_390d0c01](https://github.com/user-attachments/assets/a02dcfa9-912a-40be-b60b-98b63eb78ef9)
+
 
 ---
 
